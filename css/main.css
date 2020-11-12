@@ -12,8 +12,8 @@
    ========================================================================== */
 
 html {
-  color: #222;
-  font-size: 1em;
+  color: #202322;
+  font-size: 16px;
   line-height: 1.4;
 }
 
@@ -260,4 +260,3 @@ textarea {
     page-break-after: avoid;
   }
 }
-

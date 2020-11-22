@@ -1,0 +1,40 @@
+/about/
+      -index.html
+/faq/
+      -index.html
+root/
+      -index.html
+root/
+header
+  -logo
+  -navigation bar
+      -About
+      -faqs
+  -headline
+  -image
+
+content area
+  -newsletter signup
+      -headline text
+      -paragraph text
+      -headline text
+      -email field
+      submit button
+  -general information
+      -headline text
+      -background image
+      -icons
+      -text
+  -previous retreats
+      -headline text
+      -paragraph text
+      -image
+
+footer
+  -contact
+      -headline text
+      -contact info
+  -social media
+      -headline text
+      -social icons
+  -copyright
